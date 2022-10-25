@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  device:
+    build: devices
+    ports:
+      - 8080:8080
+  api:
+    build: api
+    ports:
+      - 8081:8081
