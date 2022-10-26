@@ -30,7 +30,7 @@ The overall structure of the project is as follows:
 
 ```
 
-As far as resource directories go, the `assets` folder is pretty straightforward. It's parent directory, `backend/main` , houses the basic website template used to simulate a public-facing site that may be used in a real deplployment.
+As far as resource directories go, the `assets` folder is pretty straightforward. It's parent directory, `backend/main` , houses the basic website template used to simulate a public-facing site used in a real deployment.
 
 <br>
 
