@@ -2,7 +2,7 @@
 
 <br>
 
-![Banner](https://github.com/dedSyn4ps3/go-nginx-proxy/raw/main/backend/main/assets/img/geometric.jpeg "Banner") 
+![Banner](https://github.com/dedSyn4ps3/go-nginx-proxy/raw/main/backend/main/assets/img/landing-page.png "Banner") 
 
 <br>
 
