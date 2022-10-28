@@ -10,7 +10,7 @@
 
 <br>
 
-> This repo is meant to hold the code files for the Medium article [The Power of The Reverse Proxy](https://www.medium.com/article).
+> This repo is meant to hold the code files for the Medium article [Power of the Proxy](https://medium.com/@erutherford_nullreturn).
 
 The overall structure of the project is as follows:
 
